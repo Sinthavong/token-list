@@ -21189,3 +21189,19 @@
     "instagram": "https://instagram.com/bricksproperties"
   }
 }
+    ,{
+      "chainId": 101,
+      "address": "wWeuSbZE4b8y7qNrn5LwAWotvqEZr3R8J9r5P4NGJwi",
+      "symbol": "PDISE",
+      "name": "Paradise Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Sinthavong/me/main/PDISE.png",
+      "tags": [
+        "nft","game-coin"
+      ],
+      "extensions": {
+        "website": "https://www.projectparadise.io/",
+        "discord":"https://discord.gg/ZTFfTwWdWd",
+        "twitter":"https://twitter.com/TheParadiseNFT"
+      }
+    }
